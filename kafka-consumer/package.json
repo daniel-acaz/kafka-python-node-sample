@@ -1,0 +1,14 @@
+{
+  "name": "kafkaconsumer",
+  "version": "1.0.0",
+  "description": "to kafka project in article: https://medium.com/trainingcenter/apache-kafka-codifica%C3%A7%C3%A3o-na-pratica-9c6a4142a08f",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Acaz",
+  "license": "ISC",
+  "dependencies": {
+    "no-kafka": "^3.4.3"
+  }
+}
